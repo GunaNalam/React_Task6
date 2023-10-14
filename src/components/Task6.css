@@ -1,0 +1,46 @@
+.background{
+    background-color: rgb(198, 194, 194);
+}
+
+.nav-link{
+    color: white;
+}
+
+.nav-link:hover{
+    color: #011aff;
+    border-bottom:2px solid red;
+}
+
+.padding{
+    padding-left: 2rem;
+    border: 1px solid black;
+    margin-right: 0.2rem;
+}
+
+.margin{
+    margin-bottom: 12rem;
+}
+
+.width{
+    width: 8rem;
+}
+.body,html{
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.home-custom{
+    padding: 10rem 1rem;
+}
+
+.user-content{
+    color: #002057;
+    padding-top: 7rem;
+}
+
+.skills-custom {
+    background-color: #5605a3;
+}
+#about-custom{
+    background-color: #ffffff;
+}
