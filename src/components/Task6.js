@@ -175,7 +175,7 @@ class Task6 extends Component {
             <div className="col-12 rounded shadow-lg mb-3 text-start">
                 <div className="row">
                     <div className="col-4">
-                        <img src={"http://rb.gy/zss0l"} alt="Collage" width="100%" height="200rem" />
+                        <img src={"http://rb.gy/i3w09"} alt="Collage" width="100%" height="200rem" />
                     </div>
                     <div className="ms-2 col-7">
                         <div className="text-secondary mb-2 fs-4">NSM PUBLIC SCHOOL<span className="ps-5">Vijayawada, Andhra Pradesh</span></div>
