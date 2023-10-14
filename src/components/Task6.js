@@ -55,7 +55,7 @@ class Task6 extends Component {
           </div>
         </div>
         <div className="offset-2 col-4">
-          <img src={require('Screenshot%202023-03-04%20123036.png')} alt="Image" className="img-fluid rounded-circle" width="500rem" height="500rem" />
+          <img src={require('./Screenshot%202023-03-04%20123036.png')} alt="Image" className="img-fluid rounded-circle" width="500rem" height="500rem" />
         </div>
       </div>
        <div className="row about-custom  pt-4 pb-5 mb-5 " id="about-custom">
@@ -64,7 +64,7 @@ class Task6 extends Component {
           <span>About Me</span>
         </div>
         <div className="offset-1 col-4 pt-4">
-          <img src={require('Guna_Photo.jpg')} alt="Photo" className="img-fluid rounded-circle" height="10rem" width="500rem" />
+          <img src={require('./Guna_Photo.jpg')} alt="Photo" className="img-fluid rounded-circle" height="10rem" width="500rem" />
         </div>
         <div className="offset-1 pt-4 fs-5 col-5 mt-5 text-start">
           Cognizant and resourceful scholar adept in an array of cutting-edge
