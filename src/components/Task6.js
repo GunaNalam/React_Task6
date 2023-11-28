@@ -149,7 +149,7 @@ class Task6 extends Component {
             <div className="col-12 pt-5 mt-5 rounded shadow-lg mb-3 text-start">
                 <div className="row">
                     <div className="col-4">
-                        <img src={"http://rb.gy/rnheg"} alt="Collage" width="100%" height="200rem" />
+                        <img src={"https://english.mathrubhumi.com/image/contentid/policy:1.7693029:1657794165/about_banner.jpg?$p=2714b24&f=16x10&w=852&q=0.8"} alt="Collage" width="100%" height="200rem" />
                     </div>
                     <div className="ms-2 col-7">
                         <div className="text-secondary mb-2 fs-4">
@@ -165,7 +165,7 @@ class Task6 extends Component {
             <div className="col-12 rounded shadow-lg mb-3 text-start">
                 <div className="row">
                     <div className="col-4">
-                        <img src={"http://rb.gy/t0e6u"} alt="Collage" width="100%" height="200rem" />
+                        <img src={"https://lh3.googleusercontent.com/p/AF1QipPn1y5fsQB8uqp67vXI_Vf459uRZbGgdTmfiAuE=w960-h960-n-o-v1"} alt="Collage" width="100%" height="200rem" />
                     </div>
                     <div className="ms-2 col-7">
                         <div className="text-secondary mb-2 fs-4">FIITJEE JUNIOR COLLEGE<span className="ps-5">Vijayawada, Andhra Pradesh</span></div>
@@ -177,7 +177,7 @@ class Task6 extends Component {
             <div className="col-12 rounded shadow-lg mb-3 text-start">
                 <div className="row">
                     <div className="col-4">
-                        <img src={"http://rb.gy/i3w09"} alt="Collage" width="100%" height="200rem" />
+                        <img src={"http://www.nsmpublicschoolvijayawada.org/wp-content/uploads/2023/06/DSC_3535-1.jpg"} alt="Collage" width="100%" height="200rem" />
                     </div>
                     <div className="ms-2 col-7">
                         <div className="text-secondary mb-2 fs-4">NSM PUBLIC SCHOOL<span className="ps-5">Vijayawada, Andhra Pradesh</span></div>
