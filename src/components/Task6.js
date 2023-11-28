@@ -3,7 +3,7 @@ import "./bootstrap.css"
 import "./Task6.css"
 import {FaCode, FaGithub, FaInstagram, FaLinkedin, FaTelegram} from "react-icons/fa";
 import Imag1 from "./Screenshot 2023-03-04 123036.png"
-import Imag2 from "./Guna_Photo.png"
+import Imag2 from "./Guna_Photo.jpg"
 class Task6 extends Component {
   render() {
     return (
