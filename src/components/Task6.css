@@ -1,3 +1,7 @@
+.body,html{
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+}
 .background{
     background-color: rgb(198, 194, 194);
 }
@@ -23,10 +27,6 @@
 
 .width{
     width: 8rem;
-}
-.body,html{
-    width: 100%;
-    font-family: 'Times New Roman', Times, serif;
 }
 
 .home-custom{
